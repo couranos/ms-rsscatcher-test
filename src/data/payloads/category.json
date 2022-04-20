@@ -1,0 +1,12 @@
+{
+  "category": [{
+      "key": "microservice",
+      "text": "Microservice"
+    },
+    {
+      "key": "monolityque",
+      "text": "Monolytique"
+    }
+  ],
+  "subcategory": []
+}

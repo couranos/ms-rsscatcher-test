@@ -1,0 +1,17 @@
+node_modules/
+build/
+dist/
+coverage/
+.vscode/
+report.20*
+.DS_Store*
+datble.sql
+ecosystem.config.js
+api_know_hosts
+swagger.json
+bitbucket-pipelines.yml
+# .env
+.git.data
+npm-debug.log
+# /*.env
+src/logs

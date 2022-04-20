@@ -1,0 +1,14 @@
+{
+    "idRequired": "La référence de l'objet est requise",
+    "titleRequired": "Le libellé est requis",
+    "categoryRequired": "La categorie est requise",
+    "referenceRequired": "La référence est requise",
+    "notFound": "Enregistrement introuvable",
+    "categoryNotfound": "Categorie introuvable",
+    "subcategoryNotfound": "Sous-categorie introuvable",
+    "categoryRequireChil": "La categorie sélectionnée requiert un ou plusieurs sous-categories",
+    "titleExist": "Un enregistrement avec ce titre existe déjà",
+    "successSave": "Enregistrement réussie!",
+    "successUpdate": "Modification réussie!",
+    "successRemove": "Enregistrement supprimé avec succès"
+}

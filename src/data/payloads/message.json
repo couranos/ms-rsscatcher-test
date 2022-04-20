@@ -1,0 +1,14 @@
+{
+    "welcome": {
+        "object": "Création de compte Ma SODECI",
+        "content": "Bravo! vous êtes maintenant inscrit à la plateforme Ma SODECI en ligne"
+    },
+    "goodbye": {
+        "object": "Suppression de compte Ma SODECI",
+        "content": "Votre demande de suppression de compte a été validé avec succès. Ne vous connectez pas pendant les 15 jours suivants cette demande pour une suppression définitive."
+    },
+    "passwordPreReset": {
+        "object": "Réinitialisation de mot de passe",
+        "content": "Veuiller utiliser le code fourni pour la réinitialisation de votre mot de passe."
+    }
+}

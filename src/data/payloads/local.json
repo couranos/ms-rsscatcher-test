@@ -1,0 +1,23 @@
+{
+    "route": {
+        "slugRequired": "La référence de l'objet est requise",
+        "labelRequired": "Le libellé est requis",
+        "categoryRequired": "La categorie est requise",
+        "referenceRequired": "La référence est requise"
+    },
+    "controller": {
+        "notFound": "Enregistrement introuvable",
+        "categoryNotfound": "Categorie introuvable",
+        "subcategoryNotfound": "Sous-categorie introuvable",
+        "typeIndexNotfound": "Type d'index introuvable",
+        "typeReleveNotfound": "Type de relève introuvable",
+        "typeReleveRequireOuvrage": "La categorie sélectionnée requiert un ou plusieurs types d'ouvrage",
+        "categoryRequireParent": "La categorie sélectionnée requiert un type de relève",
+        "categoryRequireChil": "La categorie sélectionnée requiert un ou plusieurs types d'index",
+        "typeIndexRequireOuvrage": "La categorie sélectionnée requiert un type d'ouvrage",
+        "labelExist": "Un enregistrement avec ce libellé existe déjà",
+        "successSave": "Enregistrement réussie!",
+        "successUpdate": "Modification réussie!",
+        "successRemove": "Enregistrement supprimé avec succès"
+    }
+}

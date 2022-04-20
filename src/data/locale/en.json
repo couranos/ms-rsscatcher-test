@@ -1,0 +1,14 @@
+{
+    "slugRequired": "Object identifier is required",
+    "titleRequired": "Title is required",
+    "categoryRequired": "Category is required",
+    "referenceRequired": "Identifier is required",
+    "notFound": "Data not found",
+    "categoryNotfound": "Category not found",
+    "subcategoryNotfound": "Subcategory not found",
+    "categoryRequireChil": "Selected category requires one or more subcategory",
+    "titleExist": "Data with such title already exists",
+    "successSave": "Save done sucessfully!",
+    "successUpdate": "Update done sucessfully!",
+    "successRemove": "Data removed sucessfully"
+}
