@@ -13,7 +13,7 @@ route.get('/container', (req : any, res : any) => {
     return cdg.api(res, Q);
 });
 
-route.post('/import', async (req : any, res : any) => {
+route.post('/articles/import', async (req : any, res : any) => {
     let siteRssUrl: any = req.query.siteRssUrl;
 
     let Q = Controller.import(siteRssUrl)
